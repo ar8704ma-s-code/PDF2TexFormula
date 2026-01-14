@@ -36,7 +36,7 @@ PDF2LATEXcode/
 
 ## Installation
 
-```bash
+
 git clone git@github.com:ar8704ma-s-code/PDF2TexFormula.git
 cd PDF2TexFormula/PDF2LATEXcode
 python3 -m venv venv
@@ -50,6 +50,7 @@ python pipeline_raw_many.py
 
 # Evaluate formulas
 python evaluate_formulas.py
+
 Datasets & Demo
 
 Datasets: PDF2TEX_raw_withgt, PDF2TEX_train_Dataset_withgt, test_pix2tex_1.5B_7B (on Hugging Face)
