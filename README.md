@@ -20,6 +20,7 @@ This design handles noisy OCR outputs and provides reliable, structured formulas
 ---
 
 ## Repository Structure
+'''bash
 PDF2LATEXcode/
 ├── pipeline/ # Core extraction
 ├── repair/ # LLM-based repair
@@ -36,7 +37,7 @@ PDF2LATEXcode/
 
 ## Installation
 
-
+'''bash
 git clone git@github.com:ar8704ma-s-code/PDF2TexFormula.git
 cd PDF2TexFormula/PDF2LATEXcode
 python3 -m venv venv
