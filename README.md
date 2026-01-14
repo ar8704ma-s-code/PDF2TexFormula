@@ -54,7 +54,7 @@ Datasets & Demo
 
 Datasets: PDF2TEX_raw_withgt, PDF2TEX_train_Dataset_withgt, test_pix2tex_1.5B_7B (on Hugging Face)
 
-Online Demo: https://huggingface.co/spaces/Baiyinyou/PDF2TEX_Formula
+[Try the PDF2TexFormula Demo!](https://huggingface.co/spaces/Baiyinyou/PDF2TEX_Formula)
 PDF2TexFormula: A Lightweight Pipeline for Extracting and Repairing Mathematical Formulas from Raw PDFs
 Archana Mallick, Ruiying Zhu
 
