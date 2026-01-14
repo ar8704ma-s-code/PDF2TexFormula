@@ -21,7 +21,7 @@ This design handles noisy OCR outputs and provides reliable, structured formulas
 
 ## Pipeline
 
-![PDF2TexFormula Pipeline](PDF2LATEXcode/pipeline.png)
+![PDF2TexFormula Pipeline](pipeline.png)
 
 [Click here to try the PDF2TexFormula Demo!](https://huggingface.co/spaces/Baiyinyou/PDF2TEX_Formula)
 
