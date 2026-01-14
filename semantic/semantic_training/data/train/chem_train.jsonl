@@ -1,0 +1,4000 @@
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H^2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> ^H2O", "correct": false}
+{"formula": "2H2O2^^ -> 2H2O +O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Co+ O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "zH2O2 ->a2H2^O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2 + O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "22O 2 ->2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "^H2 + O2 > H2u", "correct": false}
+{"formula": "2H2O2e-> 2H2Ob+ O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2  + O2 -> H {2O", "correct": false}
+{"formula": "H2  O2 > H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2HO{2-> 2H2O + O2", "correct": false}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "{C + On -> CO2", "correct": false}
+{"formula": "C + O}2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H}2 -> _rNH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -}> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O f O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 ->vcO2", "correct": false}
+{"formula": "H}2 + O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C +xO2-> O2", "correct": false}
+{"formula": "C + 2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 +  c2 -> H}2O", "correct": false}
+{"formula": "C s O2 -> CO2", "correct": false}
+{"formula": "C + O2 > CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 22O + O2", "correct": false}
+{"formula": "H2 + O2 -> 2", "correct": false}
+{"formula": "N + 3H2 -> 2uH3", "correct": false}
+{"formula": "N2 + 3H2 ->e2NH3", "correct": false}
+{"formula": "H2 + O2 - uO", "correct": false}
+{"formula": "y + O2 -h CO2", "correct": false}
+{"formula": "m + 3H 2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2q> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N + uH2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2  }-> H2e", "correct": false}
+{"formula": "H2 + O2_ -> H2O", "correct": false}
+{"formula": "C+ O2_ -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N_2+ 3H2 ->  2NH3", "correct": false}
+{"formula": "C + Om -m CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2q2Oy -> 2H2O + O2", "correct": false}
+{"formula": "C + O2 g  CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2w2O2 -> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 u> 2", "correct": false}
+{"formula": "2q2O2 -> 2H2O +s2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 +yOh -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 +O2b-> H2O", "correct": false}
+{"formula": "C + O2 -> {O2", "correct": false}
+{"formula": "H2 + O2 -> 2w ", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2_ + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + H2 -> 2NHz_", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "}N2 + 3H ->2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -_> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + dH2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Nq + oH2 -> 2NH3", "correct": false}
+{"formula": "C + O{ ->tCO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2HO -> 2}H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2^O", "correct": false}
+{"formula": "2H2O2 -> gHO + O", "correct": false}
+{"formula": "Cq+ x2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3^H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N 2  3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C  O2 -> C2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2} -> H2O", "correct": false}
+{"formula": "N2 + 3H2 > 2NH3", "correct": false}
+{"formula": "Hz + O2 -> H2O", "correct": false}
+{"formula": "2HvO2{ -> 2H2O + O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C +} O2 j>pCO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2-> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2HoO2 ->b2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O^", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2_NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O 2 -> 2O", "correct": false}
+{"formula": "2H2O{2 -> 2H2O+ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H^b + O2 -> H2}O", "correct": false}
+{"formula": "2H2O2 -> 2H2}O +} O2", "correct": false}
+{"formula": "H2 +O2 -w 2O", "correct": false}
+{"formula": "2H2O2-> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> C2", "correct": false}
+{"formula": " C + u2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> u2O", "correct": false}
+{"formula": "N2 +d3H2 -> NH^3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2+ O2 ^-> H2x", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "e2r+ O2 - > H2O", "correct": false}
+{"formula": "C} + O2 -> CO2", "correct": false}
+{"formula": "2H^2O2 -> 2HO + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2Hy{O + O", "correct": false}
+{"formula": "2H2O2 -> 2H2O  O_2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + Ou -> H2O", "correct": false}
+{"formula": "C + Oi -d CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C  O2 > CO2 ", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2}O2 -> 2H2O +wO2", "correct": false}
+{"formula": "N2 }+ 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2g + O2", "correct": false}
+{"formula": "2H2O2 - > 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2z-> NH3", "correct": false}
+{"formula": "2H2O2b-> 2HuO + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2  n> C2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + O2 ^-> HO", "correct": false}
+{"formula": "2H2O}2 -> 2HO + O2", "correct": false}
+{"formula": "2H2O2 > 2H2Od+ O2", "correct": false}
+{"formula": "N2 + 3q2 n}> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2O2 -}> 2H2O {+ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 +  O2 -> H2", "correct": false}
+{"formula": "C + O2-> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 {+ O2nf> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "Cg+ O2 -> qO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O  + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + H2d-> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2m- 2}H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 {->kO2", "correct": false}
+{"formula": "C u O2 _-> CO2", "correct": false}
+{"formula": "C + O2^ -> CO2", "correct": false}
+{"formula": "N + 3Hz -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> _2NHg", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2i2O2 -> 2 H2O z O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N_2 + 3H2 ->n2NH3", "correct": false}
+{"formula": "}C  O2^ -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 ^+ 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "{H2 + O2 x>H2O", "correct": false}
+{"formula": "c2 + O m -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 ->v2H{2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + H -> 2NH", "correct": false}
+{"formula": " + O2h-> CO2", "correct": false}
+{"formula": "H2c+ O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2HmO2 ^-> 2H2O + O^2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "2HOm{ -> 2H2O + O2", "correct": false}
+{"formula": "N2_ _+ 3H2 -> 2NH", "correct": false}
+{"formula": "2O2 -> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + }3H2 i> 2wH3", "correct": false}
+{"formula": "H2 + O2 - H2O ", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2^ -> }O2", "correct": false}
+{"formula": "H2 + O2-> 2O_", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2  2 -> HO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Cz+ 2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": " + O2 -> _CO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2 + O2 -> HO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C  O2  -> CO2", "correct": false}
+{"formula": "N2 +} 3H2{ -> 2kH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O t  O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H + O2 - H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C ^+ O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2^ -b CO2", "correct": false}
+{"formula": "H2 + O2x-> H2O", "correct": false}
+{"formula": "C +} O2 v> CO2", "correct": false}
+{"formula": "H2 + O2 -> ^H2O", "correct": false}
+{"formula": "C e O2} -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2+ 3H2 -> oH3", "correct": false}
+{"formula": "H2 + Ox -f H2", "correct": false}
+{"formula": "N2 + Hj > 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 _^-> 2HkO + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 ->dH2O", "correct": false}
+{"formula": "H2 +O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 ->bH2dO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2x+ 3H2{ -> 2Nh3", "correct": false}
+{"formula": "C + O -> CO2^", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "}H2 + O2r- H2O", "correct": false}
+{"formula": "2^H2O2m-> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> 2O", "correct": false}
+{"formula": "e +  O2 -> COr", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2 + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2 + }O2 -> H2O", "correct": false}
+{"formula": "H2 + Ox-{> H2O", "correct": false}
+{"formula": "i2 + _3H2 -> zNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 +_O}2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + Oi -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C uO2 -> CO2", "correct": false}
+{"formula": "C + O2 - COb", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 _+ }O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 ^-> H2O", "correct": false}
+{"formula": "H_2 + {O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 +tO2 ->eH2O", "correct": false}
+{"formula": " N2 + 3H2 i> 2H3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> H{2O + Ow", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O}2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -_q 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 +Oh -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2-> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C  + O2 -> COl", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 ->2H2O + ^O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 { -> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Hj + O -> H 2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 { O2 -> H2O", "correct": false}
+{"formula": " + 3H2 -> 2N_H3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 - 2H2r + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "_N^2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 ogO2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> H2O + O2", "correct": false}
+{"formula": "H 2 +mO2 -_> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> NH3", "correct": false}
+{"formula": "N + 3Hk -> 2H3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C +kO2-> CO2", "correct": false}
+{"formula": "H2+ O2 -o HfO", "correct": false}
+{"formula": "Nm + 3H2-> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> C2", "correct": false}
+{"formula": "2H2O2 -> 2H2O^+ 2", "correct": false}
+{"formula": "C + O2-> CO{2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2}O2 -> 2H2O +cO", "correct": false}
+{"formula": "H2 +  O2 -> y2O{", "correct": false}
+{"formula": "N2  + 3H -> 2NHj", "correct": false}
+{"formula": "N2 +} 3H2 -> fNH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H22 -> 2H2{O + O2", "correct": false}
+{"formula": "H{2 + O2 -> x2O}", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C^ + O2 -> CO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2- H2O", "correct": false}
+{"formula": "2H2Oy -> 2H2O ^+ Os", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 ->{ 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +^ O2 ->_ C2", "correct": false}
+{"formula": "{mH2O2 -> 2H2O +zO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 +tO2}c-> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> dNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + d2 -> H2_O^", "correct": false}
+{"formula": "2H2O2_ -> {2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +O2 -  CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 > Cp2", "correct": false}
+{"formula": "2H2O2 -> H2}O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 ->  CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C g O2 -> Ch", "correct": false}
+{"formula": "N2 + 3H2 ->} {2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -{> hO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2-> 2NH3", "correct": false}
+{"formula": "_N2  3H2 > 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + Ol -> ^H2O", "correct": false}
+{"formula": "H2 + O2{ -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "22O2 -> 2H2O + O2", "correct": false}
+{"formula": "N +{ 3H2 -> 2^NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2d-> 2H2O y O2", "correct": false}
+{"formula": "C + _O -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2 + O2 -> {H_2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -_u CO2", "correct": false}
+{"formula": "2H2O2 -> 2HyO +O2", "correct": false}
+{"formula": "H2 + O{2 m> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + l2 ->CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "_2H2}O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C g+ O2 - CO2", "correct": false}
+{"formula": "C + {O -> Cq2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2 + 3_H2 -> 2N{H3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 f>iqNH3", "correct": false}
+{"formula": "H2 + O2-> HO", "correct": false}
+{"formula": "{N2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3Hv -> 2NH3", "correct": false}
+{"formula": "N2 _+ 3H2 -> 2NH3", "correct": false}
+{"formula": "22O2 > 2H2O + O2", "correct": false}
+{"formula": "C + O2 p> CO2", "correct": false}
+{"formula": "Ci+ O2 -{> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -a CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2_O +} O2", "correct": false}
+{"formula": "C  O2  -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "^H2O2 -> 2H2O + O^2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2y+ O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2N{3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "{2H2O2 -> 2HO + O2", "correct": false}
+{"formula": "H2O2 s 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -}H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 ->H2O", "correct": false}
+{"formula": "C + O2 -}> CO2", "correct": false}
+{"formula": "H2 + O2 -> ^HuO", "correct": false}
+{"formula": "C + O2 -> n2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 ->h_2NH3", "correct": false}
+{"formula": "}N2 + 3H2 -> yNH3{", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 - H_2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2 + 3H2 -> 2NH}3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + _cw", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2cO + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O -> C2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H{2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2u+ 3He -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2i2 -> 2HvO + O2", "correct": false}
+{"formula": "2H2O2 ->H2O + e2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H^2O u Ok", "correct": false}
+{"formula": "H2 }+ O2 ->{ H2", "correct": false}
+{"formula": "H2 +_ O2 -> HkO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 f> 2HdO + O2", "correct": false}
+{"formula": "H2 + O2 -l H2O", "correct": false}
+{"formula": "2H 2O2 -> 2H2O^ + O", "correct": false}
+{"formula": "2H2O2 -> {2H}2O + O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 +3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2f- 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2+ ^O2 -g H2O", "correct": false}
+{"formula": "n2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2 O2d> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2^ + O2 -> 2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2  + O2 -> H2O", "correct": false}
+{"formula": "C  O2 _-> COv", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -^> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -_> HO", "correct": false}
+{"formula": "C + O2 -> _Ch2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> _2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 ->vt2O", "correct": false}
+{"formula": "H2{ + O2 - H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 - 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 +pO2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + Og", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O -> O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C +f2l-> CO2", "correct": false}
+{"formula": "C + O2 ->eC2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H22- > 2H2O + O2", "correct": false}
+{"formula": "2H2O2 r> 2H2O + O}2", "correct": false}
+{"formula": "N2 + 3H2g-> 2NH3", "correct": false}
+{"formula": "H2 + O2 w> H2O", "correct": false}
+{"formula": "C + O2 ->CO2", "correct": false}
+{"formula": "N2 +  3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 }-> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C h O2 > CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H22 -> 2H2Ok+ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2_ -> H2O", "correct": false}
+{"formula": "N}2 + _3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + 2 -  CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 {->CO2", "correct": false}
+{"formula": "2H2O{2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 +3H 2 ->_ 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2t-> 2NH3", "correct": false}
+{"formula": "N2 + 3H -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2 + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 x> H2O", "correct": false}
+{"formula": "2 + 3H_2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + 2 -> H2O", "correct": false}
+{"formula": "H2 e O2 ->^ H2", "correct": false}
+{"formula": "2H2O2 j> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2HcO + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 ->f2O", "correct": false}
+{"formula": "2H2O2 -> 22O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + m2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> oH2O O2", "correct": false}
+{"formula": "N2j+ 3H2 >2NH3", "correct": false}
+{"formula": "H2x+ O2 ->jH2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -i 2H2O + O2", "correct": false}
+{"formula": " + 2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + Oz l> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": false}
+{"formula": "H + O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO_2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 _+ O2 -> HO ", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2k-> H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2t2O2 -> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2HO2 -> 2H2O ^+ O2", "correct": false}
+{"formula": "N  3H2 -> NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O +} O2", "correct": false}
+{"formula": "2H2O2 -> 2HrO + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2Oe+ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H}2 + 2 > H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> tH2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "^2H2O2 -> 2H2x + O2", "correct": false}
+{"formula": "q + 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3{H2 }-> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "{2 + O{2 -> H2O", "correct": false}
+{"formula": "H2 + O2 ->nH2O", "correct": false}
+{"formula": "N2t+ 3H2 -> 2N^H3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2^NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2k->CO2", "correct": false}
+{"formula": "C + O2 -> sO2", "correct": false}
+{"formula": "H2 + t2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": false}
+{"formula": "N2 + {H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HxO2-> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "^C + O2 -> xO2", "correct": false}
+{"formula": "C + Oh->kCO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2> CO2", "correct": false}
+{"formula": "C +eO}2 -> CO2", "correct": false}
+{"formula": "C +O2 _-> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2-> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 ->}2NH3", "correct": false}
+{"formula": "N2 + 3}H2 }-> 2H3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2  + O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O{2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "N + 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "tH2O2 -> 2H2O  O2", "correct": false}
+{"formula": "^N2 + 3H2 s> 2N3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H}_2 + O2 > H2O", "correct": false}
+{"formula": "zH2O2 -> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O - H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2_ ->^ CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 2 -> 2NH3^", "correct": false}
+{"formula": "H2 + O2 ->HO", "correct": false}
+{"formula": "C e O2 > CO2", "correct": false}
+{"formula": "Hl + O2x-> 2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + ^3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -a H2o", "correct": false}
+{"formula": "H2 + O_2 -> H2O_", "correct": false}
+{"formula": " + O2} -> CO2", "correct": false}
+{"formula": "Ct+ O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> Ct2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> COg", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2  3H2 u> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> HfO", "correct": false}
+{"formula": "H2 +iO2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 +} 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O -> CO_s", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2 + O2 -> H2", "correct": false}
+{"formula": "C+ O2 f>} CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -}> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3}", "correct": false}
+{"formula": " H2  O2 -> H2O", "correct": false}
+{"formula": "H2b+ ^O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 ->_ 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> ydO + O2", "correct": false}
+{"formula": "H2 + O{2  }-> H2O", "correct": false}
+{"formula": "2H2O2 -}> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 - > H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C c O2 -> O_2", "correct": false}
+{"formula": "2H2O2 ->k2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 {-> r2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H {+ O2 -> H2O", "correct": false}
+{"formula": "{C + O -> O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 > CO2", "correct": false}
+{"formula": "2HO2 -> 2H2O + O2", "correct": false}
+{"formula": "C {+ O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2l+ 3H -> 2NH3", "correct": false}
+{"formula": "H2i+ O2 -> H2O", "correct": false}
+{"formula": "Hfu+ k2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> hNH3", "correct": false}
+{"formula": "2H2O2 -^> 2H2O + O2^", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + }3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + Ob", "correct": false}
+{"formula": "^H{2 + O2 -> H2O", "correct": false}
+{"formula": "Hc^ +O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 ^-> 2H2O +} O2", "correct": false}
+{"formula": "N2 + }32 -> 2N^H3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2r-> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C   Os -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 ->CO2o", "correct": false}
+{"formula": "N2 + 3H2 -> 2N{H3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + O2 -> H{2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 O2 -> 2H2O + O 2", "correct": false}
+{"formula": "C + O2 -{> C_c2", "correct": false}
+{"formula": "{2H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 ->2NH3", "correct": false}
+{"formula": "N2 + 3H2x->d2NH3", "correct": false}
+{"formula": "2H2O2c-> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "rk + O2 - > H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C +{ O2 -> pO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> C^O2", "correct": false}
+{"formula": "C + O2 }-> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2 +fO2", "correct": false}
+{"formula": "H2 + O2_ -> H2O", "correct": false}
+{"formula": "2H_2O2 -> 2H}2O + O2 ", "correct": false}
+{"formula": "2 + wH2 -e 2NH3", "correct": false}
+{"formula": "2HyO2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2Oh -> 2H2O + O}2", "correct": false}
+{"formula": "2H2O2- > 2H2O +_ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> HuO", "correct": false}
+{"formula": "2H2O2 -^> 2H2O + O2", "correct": false}
+{"formula": "_N2 + 3H -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2+ O2 -> H2O", "correct": false}
+{"formula": "H2  O2 -> H2O", "correct": false}
+{"formula": "2H2o2 -> 2H2O t O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O+ Oc", "correct": false}
+{"formula": "H2  + O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> {2NH_", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2", "correct": false}
+{"formula": " + r2-> CO2", "correct": false}
+{"formula": "^N2+ 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2  -> 2}NH", "correct": false}
+{"formula": "H2 + O2 ->  H2O", "correct": false}
+{"formula": "2H2O}2-> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 > CO2", "correct": false}
+{"formula": "C + O2 - Ca2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H q> 2NH3", "correct": false}
+{"formula": "z + O2 -> CO", "correct": false}
+{"formula": "H2 + O2h-> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 {^> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 _-> 2H2O{ + O2", "correct": false}
+{"formula": "H2 + O2 -l H2O", "correct": false}
+{"formula": "yH2O2 -> 2HO + O2", "correct": false}
+{"formula": "2H2O2 -> sH2O{ + O2", "correct": false}
+{"formula": "r2 + O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2-> 2NH3", "correct": false}
+{"formula": "2H22 -> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N}2 + 3H2 ->  2Nq3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 c 3H2 -u 2NH3", "correct": false}
+{"formula": "_2H2O2-> 2H2O} + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2Nc3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N^2 d 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 > CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2  + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "i + O2 -> CO2", "correct": false}
+{"formula": "Nc  3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + p2 - H2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "g2 + O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2^H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "H2 + O 2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N + 3H2 - 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 {+ 3H2 -> cH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2+  O2 -> H2O", "correct": false}
+{"formula": "2H2O2-> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 +{ O2 -> H2O", "correct": false}
+{"formula": "N2 + {3{H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 - 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2n2 -> H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C  O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 r> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2-zbH2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O ->kHO", "correct": false}
+{"formula": "H2 + O2-> HO", "correct": false}
+{"formula": "H2 + O2 -b H2", "correct": false}
+{"formula": "H2 +{ O2^ ->uH2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 k 3H2  -> 2NH3", "correct": false}
+{"formula": "N2 +i3cH2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3}", "correct": false}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> H2O + l2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH}3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H{2 + m2 -{> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Ho e O2  -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2HaO +O2", "correct": false}
+{"formula": "C + O2 ->p^CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O - > CO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 > 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H{ + 2 -> H2O", "correct": false}
+{"formula": "H2 + O2 ->^ H{2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 +2{ -> H2O", "correct": false}
+{"formula": "N2 +  3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2  3H2 d> 2H3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -^> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O_2 -> H2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 +  O2 > H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + 2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -j 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + u2 -h C2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2-> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Nd + 3H2 -> 2NH3{", "correct": false}
+{"formula": "H2 +} 2 -> H2O", "correct": false}
+{"formula": "Cb+ Ox -> CO2", "correct": false}
+{"formula": "Nf + 3H2 ->{ 2bH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -_> 22O + O2", "correct": false}
+{"formula": "N2 + 3H2_ ->p2N3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2s2 d> 2H2O + O2", "correct": false}
+{"formula": "N2 _+ 3H2 -> 2NH3", "correct": false}
+{"formula": "{H2 + O2 ->jH2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 > H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2f2 -> 2H2 + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> Cc2r", "correct": false}
+{"formula": "2 + Om -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "e  O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> lO2", "correct": false}
+{"formula": "C + O2^ ->hCt2", "correct": false}
+{"formula": "2H2O2 -> 2H2O +hO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "kH2O2 -> 2H_2O + w2", "correct": false}
+{"formula": "2H2O2 -> 2H2w + O2", "correct": false}
+{"formula": "22O2 ->{ 2H2O ^+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2d+ 3H2 ->  2H3", "correct": false}
+{"formula": "C + O2 -}> C{O2", "correct": false}
+{"formula": "2H2_}O2 -> 22O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N + 3H -> 2}NH3", "correct": false}
+{"formula": "H2 + l2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NHw", "correct": false}
+{"formula": "2H2O2 -> 2H2O+ O2", "correct": false}
+{"formula": "2 H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2N H3", "correct": false}
+{"formula": "N2 + 3^H2 p 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 e O2 ^-> H2O", "correct": false}
+{"formula": "H2 + O2 ->fH2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + _3Hh -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 b> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -q{^ H2O", "correct": false}
+{"formula": "Cw+ O2 -> CO2", "correct": false}
+{"formula": "H2 + On -> H2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "c2 +  3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + Of - H2O", "correct": false}
+{"formula": "C+ O2{ -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C{ + }O2 -> CO2", "correct": false}
+{"formula": "C + 2  -> O2", "correct": false}
+{"formula": "N2 + H2 -> 2NH3^", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C  + _O2 -> CO2", "correct": false}
+{"formula": "2H2O -> 2H2O + O2", "correct": false}
+{"formula": "H2__ + O2 -> 2O", "correct": false}
+{"formula": "s2u+ 3H2 -> 2N3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2s+ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2O2 -> 2H2O +kO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2N}}H3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": " C + O2 j>} CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 ->H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + 2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + _O2", "correct": false}
+{"formula": "2H2n2 -n 2H2O + O2", "correct": false}
+{"formula": "N2}i+ 3H2 -> 2_NH3", "correct": false}
+{"formula": "N2 + 3H2-> 2NH{3", "correct": false}
+{"formula": "2HaO2f-> 2H2O+ O2", "correct": false}
+{"formula": "N2 + 3Hs > 2H3", "correct": false}
+{"formula": "H2 + O2 ->oH2O", "correct": false}
+{"formula": "C{ + 2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "Nz+ 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + H2 -> 2N{n3", "correct": false}
+{"formula": "C {+ Oh -> CO2", "correct": false}
+{"formula": " 2H2O2 -o 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +  O2 ->nCO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 +O2 ->kH2s", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 32 -> {2NH", "correct": false}
+{"formula": "H2 u O_2 -> ^H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + rH2 -a 2NH3", "correct": false}
+{"formula": "N2+ 3H -> NH3", "correct": false}
+{"formula": "2H22 -> 2H2O + O2", "correct": false}
+{"formula": "H2 b O2 -> HO_", "correct": false}
+{"formula": "2H2O2 ->_ 2H2O + q2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Ne + {3H2 -> 2NH", "correct": false}
+{"formula": "2H2O2v-> wH2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> jH2O + O2", "correct": false}
+{"formula": "H2 a O^2 ->H2O", "correct": false}
+{"formula": "H2O2 -> 2H2O + O2_", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2HO{2 -> 2H2O + O{2", "correct": false}
+{"formula": "2H2O2 ->^ 2H2O + Om", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> cH2O + O", "correct": false}
+{"formula": "C { O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> _^Cd2", "correct": false}
+{"formula": "2HO2 -> 2H2O +{nO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H^2O2} -> 2H2Od+ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2}O + O2", "correct": false}
+{"formula": "C x O2{ v> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH{3", "correct": false}
+{"formula": "rH2O -> 2H2O +O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 - H2O", "correct": false}
+{"formula": "H2 + 2-> H2O", "correct": false}
+{"formula": "2H22 ->2H2O +O2", "correct": false}
+{"formula": "N2+ 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2z-m H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2^O +{ O2", "correct": false}
+{"formula": "2H2O2 -> 2H2Oq+ O2", "correct": false}
+{"formula": "2HyO2 -> 2H2O + O2", "correct": false}
+{"formula": "N + 3H2 -> 2N3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 +3H2 -> 2N_H", "correct": false}
+{"formula": "C y O2 -> CO_2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 +} 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +^} O2-> CO2", "correct": false}
+{"formula": "N2  +3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> COi", "correct": false}
+{"formula": "2H2O2 -> 2H2O }+ O^2", "correct": false}
+{"formula": "2H2O2 -> 2H2O_ + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2 + O2{", "correct": false}
+{"formula": "C + O2 - COp", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H22 -> 2qmO + O2", "correct": false}
+{"formula": "Nj + 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2{+ O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 > hO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + g2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 > 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": " Hq + O2 -> H2_O", "correct": false}
+{"formula": "Cl+ O2 - CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + c2 -> gO", "correct": false}
+{"formula": "N2 + 3H2 -> 2H3", "correct": false}
+{"formula": "z + 2 -> nO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + O2 - H2O", "correct": false}
+{"formula": "N2 + 3_H2 -> 2N{Hz", "correct": false}
+{"formula": "N2y+ 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> C{O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2k2 -> 2H2O + O2", "correct": false}
+{"formula": "H2e+ O2 -> 2O", "correct": false}
+{"formula": "2H2O2 ^-> 2H2O +cO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H_^k + O2 -> H2O", "correct": false}
+{"formula": "H2  +  O2 -> H_2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2 + O2", "correct": false}
+{"formula": "H2 + O2 - > H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2z-e CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2O2 -> 2Hg + O2", "correct": false}
+{"formula": "2H2O2 - 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H -> 2NH3", "correct": false}
+{"formula": "2H2O2 ->o2H2O _+ O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3{H2 -> 2NH3", "correct": false}
+{"formula": "H2  O2 - H2O", "correct": false}
+{"formula": "2H2_O2 -> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -n 2NH3", "correct": false}
+{"formula": "N2 + 3H2 - 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + q2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 k> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "_H2  O2 -w H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 ->qH^2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + 2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C  + O2 -> CO2", "correct": false}
+{"formula": "C+ Os -> CO2", "correct": false}
+{"formula": "C + }O2 -> CO2", "correct": false}
+{"formula": "2H2O2 - > 2H2O + O", "correct": false}
+{"formula": "2H2O2 -> H2 O + O2", "correct": false}
+{"formula": "H + _O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C i O2 -> CO2", "correct": false}
+{"formula": "2H2k2-y 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + r2v> CO2", "correct": false}
+{"formula": "N2} + 3H2 -> 2N3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C t y2 ->  CO2", "correct": false}
+{"formula": "H2 + O2 d> H2O", "correct": false}
+{"formula": "C + O2 ->C_O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "j^H2O2 -> 2H2O +O2", "correct": false}
+{"formula": "2HO2-> 2H2O + _O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C d O2 - CO 2", "correct": false}
+{"formula": "2H2O2 ->2H{2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2Na3", "correct": false}
+{"formula": "N2  3H2f- 2NH3", "correct": false}
+{"formula": "H2 +^g^O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H_2O2 -> 2HlO + O2", "correct": false}
+{"formula": "C + O2 {- CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 - H2}O", "correct": false}
+{"formula": "N2 +3H2 -> 2_Nj3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> _2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O +oO2", "correct": false}
+{"formula": "N2+ 3H2 - 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 +bO2 -s 2O", "correct": false}
+{"formula": "N2 + 3H2j-> 2Ng3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 32 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O^x+  O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "Nh2 + 3H2 > 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C  O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 ->^_wCO2", "correct": false}
+{"formula": "H2 +O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O{2 -> H2O", "correct": false}
+{"formula": " 2H2O2 -> 2H2O^ + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Hj t O2 -> H2O", "correct": false}
+{"formula": "H2 + O2} -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O -> { H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> {H2O", "correct": false}
+{"formula": "H2O2 -> 2H}2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2  + 3z2 - 2NH3", "correct": false}
+{"formula": "C + O2 -> nO2", "correct": false}
+{"formula": "N_2 j 3H2 -> 2zH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 j O2 -> {HO", "correct": false}
+{"formula": "Cm+ O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O x O2", "correct": false}
+{"formula": "22O2 r 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 > H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": " H2h+ O2_ -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2{ -> 2H2O + Oc", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2  -> CO2", "correct": false}
+{"formula": "C  + O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> rNH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 } -> CO2", "correct": false}
+{"formula": "H2 +^ O2 -> s2O", "correct": false}
+{"formula": "2H2O2 -> 2H2_O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3Ht -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2^", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O -{> H2O", "correct": false}
+{"formula": "N2 + kH2 -> yNH3", "correct": false}
+{"formula": "N2 + 3t2 -> }2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H >2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "k2 + 3H2c-> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> 2}O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2Oc+ O2", "correct": false}
+{"formula": "H2} +O2 -> HO", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C O2 ->bCO2", "correct": false}
+{"formula": "2H2O2 -> 2H{2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2Ox {-> 2H2O + O2{", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2+ 2 -> H2O", "correct": false}
+{"formula": "H2 + 2 ->rH2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> vNH", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 +O_2-> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 ->2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 +3H2 > 2NH", "correct": false}
+{"formula": "H2 + e2 ->dH2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2_O2 -p 2H2O }+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "{2H2O2 > 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 +3H2d-> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2Ok+_ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2^H2t + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O}2 -> }COc", "correct": false}
+{"formula": "C + O2 -> O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "mH2O2 -> _2H2O} + O2", "correct": false}
+{"formula": "N^2  3H2 -> 2Nv3", "correct": false}
+{"formula": "C + m2 -> CO", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O+_ O2^", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -{> 2NH3", "correct": false}
+{"formula": "H2 + O2^ -> H2O", "correct": false}
+{"formula": "C + f2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2Oh O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2   3 H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 ^+ 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 32 -> 2N^k3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2 O2 -> 2^H2O i O2", "correct": false}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "22O2 -> 2H2O + O2", "correct": false}
+{"formula": "2gO2 -> 2H2O  + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 }+ 3H2->g2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2- 2NH3", "correct": false}
+{"formula": "H2 +b2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + 2-> H2}O", "correct": false}
+{"formula": "C +qO2 -a CO2", "correct": false}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "C {+ O2 -> Ci2", "correct": false}
+{"formula": "2H2O2 n> 2HO + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2u", "correct": false}
+{"formula": "Ngf+ 3H2r-> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HO2 -> 2H2 Oq+ O2", "correct": false}
+{"formula": "H}2 s O2 -^> H2O", "correct": false}
+{"formula": "C + O2 -> CO2 ", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 - > 2NH3", "correct": false}
+{"formula": "2H 2k2 -> 2H2O+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Ce+ O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 - 2H2Of+ O2", "correct": false}
+{"formula": "g + O} -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "^_22O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H -> 2NH3", "correct": false}
+{"formula": "^H2 + o2 -> H2O{", "correct": false}
+{"formula": "N2 + 3H2 -> sNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O  + 2", "correct": false}
+{"formula": "C + O2-> C2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2_O2 -> 2HO + O2", "correct": false}
+{"formula": "No + 3H2 -> 2NH", "correct": false}
+{"formula": "H2  + O2 ->HrO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "f + O2 > CO2{", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + _n2 -> CO2", "correct": false}
+{"formula": "N{2 + 3H -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2O2 -> 2H2O }+ O2", "correct": false}
+{"formula": "H2 + 2 e>H2O", "correct": false}
+{"formula": "N + 3H2 > 2NH{3", "correct": false}
+{"formula": "C + O2 -> aO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2  3H2 -> 2Na3", "correct": false}
+{"formula": "N2 + H2 -> 2vH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2{  3H2 -> 2wH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "eC + O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C +vO2 -iCO2", "correct": false}
+{"formula": "C + _2 -> O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2H3", "correct": false}
+{"formula": "N2 + 3Ht -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2b-> H2{O", "correct": false}
+{"formula": "H2 + O2 ->gH2 O_", "correct": false}
+{"formula": "b2 + 3p2 ->} 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H -> NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> COl", "correct": false}
+{"formula": "2H2O2 -> }2H2O + O2", "correct": false}
+{"formula": "H2 +  n2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H + O2 -> H2O", "correct": false}
+{"formula": "N{2 + 3H2 -> 2Nj3", "correct": false}
+{"formula": "H2 + x2 -sqH2O", "correct": false}
+{"formula": "H2O2 -> 22O +} O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> COl", "correct": false}
+{"formula": "N{^2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "Ne ^+ 3H2 -> }2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "zH2O2 ->2H2O + f2", "correct": false}
+{"formula": "C + 2 >tCO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Cq^+ O2 -> COp", "correct": false}
+{"formula": "C+ O2 -> Cl2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 y O -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 +{ 3H2 -i cNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 }-> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "^2 + O2 -> H2O", "correct": false}
+{"formula": "2HtO2 -> 2H2^O +rO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2O2 - 2H2O +^ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 ->2H2O  O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O  O2", "correct": false}
+{"formula": "2HvO2 - 2H2O + O2", "correct": false}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "N2 g 3H2- 2NH3", "correct": false}
+{"formula": "C  O2_ -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O +_ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + yH2 -> 2N3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O} + O2", "correct": false}
+{"formula": "2H2O -> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H + O2 -> H2O", "correct": false}
+{"formula": "^2H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "f2 ^+ O2 ->H2O", "correct": false}
+{"formula": "Nm +k3H2 -> 2NH", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C s O2 -> CO", "correct": false}
+{"formula": "N2 + H2 -> 2d3", "correct": false}
+{"formula": "H2 + O2 -> H2}O", "correct": false}
+{"formula": "H2k+uO2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O+ O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "}N2 + 3H^2 -> 2NH", "correct": false}
+{"formula": "^C +{ Oo -> CO2", "correct": false}
+{"formula": "N2 g 3H2-> 2H3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Ch+ O2 -> COb", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N}_2 + 3H2 -> 2N3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C  O2  -> CO2 ", "correct": false}
+{"formula": "s2 + 3H2 ->2NH3", "correct": false}
+{"formula": "H2+ O2 -> H2^O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Hz + p2 -> H2O", "correct": false}
+{"formula": "C+ O2 -_> C2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "i2 }n O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "o + O2 -> O2", "correct": false}
+{"formula": "2H2Ou > 2H2O + u2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + Od", "correct": false}
+{"formula": "N2i+eH2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> uNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "a2 + O2 -> HO", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + }O2 > CO2", "correct": false}
+{"formula": "H2 + O2 -> j2", "correct": false}
+{"formula": "N2 + _3H2} -> 2NHk", "correct": false}
+{"formula": "H}2 + O2 }-> H2O", "correct": false}
+{"formula": "C r O2 ->  CO 2", "correct": false}
+{"formula": "_2H2O2 -> 2H_2O {+ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + ^O -> C2", "correct": false}
+{"formula": "2H2O2 ->^ 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2l3", "correct": false}
+{"formula": "2H2O2 s> 2H2{O {+ O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2+ 3q2 -> NH3", "correct": false}
+{"formula": "N2 + 3H2 ->} NH3", "correct": false}
+{"formula": "N2 + 32 -> lNH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 t> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +{ l2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 p {2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O }-> H2O", "correct": false}
+{"formula": "C + _O2 -> CO", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2p+ O2 ->^ H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 - 2H2O + O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "d2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H 2^ + O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": " H2 + O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> Cb2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "H2 + ^y2 -> H2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "s2 + O2 -> 2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 h O2 -d H2O", "correct": false}
+{"formula": "Ni +  3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2^HkO2 -> 2r2O + O2", "correct": false}
+{"formula": "N2 + 3Hq -> 2iH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + g2 -_> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2{Nd3", "correct": false}
+{"formula": "2H2O2{ -> 2HtO + 2", "correct": false}
+{"formula": "C + O2 o CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH 3", "correct": false}
+{"formula": "H2 x O2 -> H2O", "correct": false}
+{"formula": "C + 2 g> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C+_ O2 -> CO2", "correct": false}
+{"formula": "2H2O2 > 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -{> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": " + O2y->CO2", "correct": false}
+{"formula": "N2y+i^3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 f>^ CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> COc", "correct": false}
+{"formula": "C  O2 - > CO2", "correct": false}
+{"formula": "2H2O2_ -> 2HuO +O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2j + O2 -> H2O", "correct": false}
+{"formula": "H2 + Oq->jH2O", "correct": false}
+{"formula": "N2 + 3H2{{ -{> 2NH3", "correct": false}
+{"formula": " 2q2O2 -> 2H2O +O2", "correct": false}
+{"formula": "C + O2 -^x vO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "s2 + 3H2 ->NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 {+ O2 -> H2O", "correct": false}
+{"formula": "C  2j-> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C ^+ f2 -> CO2", "correct": false}
+{"formula": "N2 + 3}H2_ -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "}H2 + O2 -> H2O", "correct": false}
+{"formula": "C +jO2 -> CO2 ", "correct": false}
+{"formula": "C + Oj -> O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "d + O2 > O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 ->eH2O + O2", "correct": false}
+{"formula": "N2  3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 b O2 -> H_2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2Nr3", "correct": false}
+{"formula": "N{2 + 3Hy -> 2H3", "correct": false}
+{"formula": "2H2O2 -> 2mO + O2", "correct": false}
+{"formula": "N2 + _3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 ->  H2O", "correct": false}
+{"formula": "H2 + O2 -> _H2O", "correct": false}
+{"formula": "C + O2 ^> CO2", "correct": false}
+{"formula": "H2 +O2 -> H{2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O +fO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> {2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H-> 2_NH3", "correct": false}
+{"formula": "C + O2 -> {C2}", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O{2 ->22O + O2", "correct": false}
+{"formula": "H{2 + O2 -> H2O", "correct": false}
+{"formula": "2H2{O2 -> 2H2O +^ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Nb + 3H2 > 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2-> H2r", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2v2 -> 2H2O +O2", "correct": false}
+{"formula": "N2 +s3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "C +  O2 -> CO2", "correct": false}
+{"formula": "2H2O2l-> H2 + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "qH2O2 -> 2HbO + O2", "correct": false}
+{"formula": "2H2O - 2H2O +} O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2}N{H3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 ->n2NH3", "correct": false}
+{"formula": "N2 + 3p2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2-h jO2", "correct": false}
+{"formula": "N2 + 3y2 -> 2NwH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 f> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + {Oq -> H2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3g2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 3H2-> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2{ + O2-> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 > NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H^2O2 -}> 2H2O+ O2", "correct": false}
+{"formula": "2H2O2 -> 2H2x + O2", "correct": false}
+{"formula": "C  + O2 -> CO2", "correct": false}
+{"formula": "2_H2O2> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3z2 -> 2nH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C +O2  -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Cn+ O2 -> CO2", "correct": false}
+{"formula": "C+ O2 _-> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> xCO2", "correct": false}
+{"formula": "2  3H2 ->t2NH3", "correct": false}
+{"formula": "N2 {+ {3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 ->gH2e + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2-g CO2{", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2o-> 2H2O + O", "correct": false}
+{"formula": "Hd }+ O2 -b H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2HbO2 -> 2o2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 ->_ 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2^ - CO2", "correct": false}
+{"formula": "H2 + O -> H2O", "correct": false}
+{"formula": "2H 2O2 -> 2H2O + O^2", "correct": false}
+{"formula": "2H2O2 -> pH2O + O2", "correct": false}
+{"formula": "C + O2 - CO2", "correct": false}
+{"formula": "2v2Oz -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2uH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2N3", "correct": false}
+{"formula": "2H2O2} {-> 2H2O + O2", "correct": false}
+{"formula": "C + 2 - {> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2q-> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C _+ O2 -> CO^2", "correct": false}
+{"formula": "2H2O2 -> 2HpO + O2", "correct": false}
+{"formula": "2H22 - 2H2d + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 22O} +xO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> COt", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 y 3H2 zv 2NH3", "correct": false}
+{"formula": "H2O2 ->  2H2O + O2", "correct": false}
+{"formula": "N2  32 -> }2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 ^d> tO2", "correct": false}
+{"formula": "H + O2 -> g2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": " + 2 -> O2", "correct": false}
+{"formula": "z2+ 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2", "correct": false}
+{"formula": "H2 + O2 - H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2l{-> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2  2_H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2N3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "2H2{O2 -> H2Ot+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 ->h2O", "correct": false}
+{"formula": "N2 + 3H2 _-> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2^-> H2O", "correct": false}
+{"formula": " H2b+ ^O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2 + O2->_ H2O", "correct": false}
+{"formula": "222 -> 22O + O2", "correct": false}
+{"formula": "H^2 + O2 ->pH2O", "correct": false}
+{"formula": "2H2O -> b2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + O2 ->2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "22O2 - 2H2O + O2 ", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + {O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2c q O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH^3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "^N2 + 3H2 ->r2N}H3", "correct": false}
+{"formula": "2H2O2 -> ^2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C kO2 -> CO2", "correct": false}
+{"formula": "2H2O2 ->2H2O + O2_", "correct": false}
+{"formula": " H2 + O2 -> H2O", "correct": false}
+{"formula": "C + O2{ -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2-> H2O + O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 _+ 3H2x> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + {O2{ -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3m2 -> 2Hw", "correct": false}
+{"formula": "N2 + 3H2 -> _2NH3", "correct": false}
+{"formula": "m + O{2 -> Cr2", "correct": false}
+{"formula": "2y2O2  -> 2H2O} + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + Ok -> uO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 {-> H2t", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 ^-> 2H2O b O2", "correct": false}
+{"formula": "N2 + 3H2 - 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2O + O2", "correct": false}
+{"formula": "Nq+ 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + }3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 ->} 2H2O  O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + Oz -> H2 O", "correct": false}
+{"formula": "2H22 ->2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH^3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> O2", "correct": false}
+{"formula": "H2{ + O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2 H2O b O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2 + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H + O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 k> 2H2r + O2", "correct": false}
+{"formula": "2H2u -> 2H2O b O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + H2 -> 2NH3", "correct": false}
+{"formula": "2H2O{2 -> 2H2O + O2", "correct": false}
+{"formula": "H + O2 {-> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C+ O2{ -r CO2", "correct": false}
+{"formula": "H2 + 2 -> u2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -}>  H2O", "correct": false}
+{"formula": "2H22 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH", "correct": false}
+{"formula": "m2 + }3H2 ^-> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2n2 ->2H2O + O2", "correct": false}
+{"formula": "H2 + O_2 -> HO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "}H2 + O2 -> Hc{O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "p + O2b-> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> vH2O + O2", "correct": false}
+{"formula": "H2+ O -> H2O_", "correct": false}
+{"formula": " 2H2g2 -> 2H2 + O2", "correct": false}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "C + O2 > CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2_o + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2q2O + O2", "correct": false}
+{"formula": "H2^+ O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "a2 + O2 -y H2O", "correct": false}
+{"formula": "Ng + 3H2 -t 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2b2O b O2", "correct": false}
+{"formula": "{C + O -> Cs2", "correct": false}
+{"formula": "H2 + O2 r q2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2^ -> 2H2O  O2", "correct": false}
+{"formula": "H2 + O2 -}> H2O^", "correct": false}
+{"formula": "H2 +O2 -> H2O", "correct": false}
+{"formula": "wH2O2 }-> 2H2O + 2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 - > H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + }O2 - CO2", "correct": false}
+{"formula": "2HfO2 -> 2H2O +pO2", "correct": false}
+{"formula": "H2 +dO2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + 2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2{O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3Hf -> 2NH3", "correct": false}
+{"formula": "2H2O2-_> 2H2O + O2", "correct": false}
+{"formula": "C + O2  -  CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 _-> 2H2O + 2", "correct": false}
+{"formula": "2H22 -> jH2O +zO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O  }+ O2", "correct": false}
+{"formula": "N2 {+ 3H2 ->2H3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HO2 -> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2d2O2 -> 2H2^O + O2}", "correct": false}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "Nf + 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2HqOz+ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 32 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "Huv+ O2-> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 }+ 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "^H2 + Ov w> H2O", "correct": false}
+{"formula": "N2{ + 3H2 -> 2N3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 ->  2Nj", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3k2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2+3H2 -> 2NH3", "correct": false}
+{"formula": "H2 +O2 -> H2O", "correct": false}
+{"formula": "N2 + 32 -> 2N{H3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH", "correct": false}
+{"formula": "H2 + O2 ->H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2 + O2", "correct": false}
+{"formula": "2HvO2  -> 2HO + O2", "correct": false}
+{"formula": "2H2O2} l> 2H2O  O2", "correct": false}
+{"formula": "2H2O2 -p 2^H2O + O2", "correct": false}
+{"formula": "C + O2 -> C2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2-> 2O", "correct": false}
+{"formula": "2 + O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 ->k2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H 2 + O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HO2 -> 2HO + O2", "correct": false}
+{"formula": "2 + O2 -> q2O", "correct": false}
+{"formula": "C + O2 -> CO_2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "H2  O2-> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 - 2NH 3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N_2 + 3H2 > iNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2N H3", "correct": false}
+{"formula": "N2 + 3H2 -^> 2N{H3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2Ot -> 2HO }+ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2-> {HgO", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 +bO2 -> H2O", "correct": false}
+{"formula": "H2{ + Ot -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH_3", "correct": false}
+{"formula": "2 + 3Hc a> 2NH3", "correct": false}
+{"formula": "H 2 + O2 ->lH2O", "correct": false}
+{"formula": "N2  + 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Hmf+ O2 -> HhO", "correct": false}
+{"formula": "2H2O2 -p 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> w2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Ch+ O2 -> }CO2^", "correct": false}
+{"formula": "2H2O 2 -> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 {-> 2H2 + O2", "correct": false}
+{"formula": "C + O2-> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 ->H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O g O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": " + O2-> C{O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O^ + O2", "correct": false}
+{"formula": "2H2O2 - 2HmO + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2+ O2 ->  H2O^", "correct": false}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + qH2 ->2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + sH2 -_> 2xH3", "correct": false}
+{"formula": "k2 + O2 -> H2O", "correct": false}
+{"formula": "2H2O2{ -> 2_H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +cO2 -> CO", "correct": false}
+{"formula": "H2 _+ O2 -> H2hO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2x+ O2 -> H2O", "correct": false}
+{"formula": "H2 + 2->H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O-> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C +cO2 -> CO2", "correct": false}
+{"formula": "{H2 + O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2O2 -> 2H2O + O", "correct": false}
+{"formula": "C  O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 {-> H2O", "correct": false}
+{"formula": "N2 + 3H2-> 2NH3", "correct": false}
+{"formula": "H2 + O}2^ -> H2O", "correct": false}
+{"formula": "u2 + 32 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2Np3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + 2 -> CO2}", "correct": false}
+{"formula": "H2 + O2 {-> H2O", "correct": false}
+{"formula": "C +{ O2n-> CO2", "correct": false}
+{"formula": "N + 3H -> 2_NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2 + O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N^e + 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> {{CO2", "correct": false}
+{"formula": "H2 +pO2a-> H{2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + _ O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C  O2 ->CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 +r3H2 n> 2NH3", "correct": false}
+{"formula": " + O2 - CO2", "correct": false}
+{"formula": "2H2O2 ->2H2O +{ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O_ + O 2", "correct": false}
+{"formula": "N2 + fH2 -> 2Nr3", "correct": false}
+{"formula": "2H2O2 _-> zHeO + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2{O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2}O", "correct": false}
+{"formula": "H 2 +^ O2 -> HO", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2_ u> 2H2O + o2", "correct": false}
+{"formula": "k + {{O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + d2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2 ", "correct": false}
+{"formula": "H2 + 2 > {H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2-> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2}H2O + 2", "correct": false}
+{"formula": "m + O2 ->CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H + ^O2", "correct": false}
+{"formula": "C+ O -> CO_2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C n O2 -> CO2", "correct": false}
+{"formula": "H2 + 2 -> H2O", "correct": false}
+{"formula": "2+ O -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 }+ 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O 2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> dH2O + O2", "correct": false}
+{"formula": "2H2O2 ->tH2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 b>{ CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2HO s O2", "correct": false}
+{"formula": "H2  O2 ->} H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O_", "correct": false}
+{"formula": "oH2O2 -> 2H2O + }O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3q2 -> pNH3", "correct": false}
+{"formula": "N2+ 3H2-> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2HO2 -> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "yH2O2 > 2H2O + O2", "correct": false}
+{"formula": "H2 + _O2 -m H2O", "correct": false}
+{"formula": "N + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> C2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 - 2 NH3", "correct": false}
+{"formula": "C + O -> CO2 ", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -^> O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O_r -> CO2", "correct": false}
+{"formula": "H + O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2  -> 2H}2O + O2", "correct": false}
+{"formula": "N2 + H2 -> 2NH3", "correct": false}
+{"formula": "H2_ + O2 ->H2 O", "correct": false}
+{"formula": "N2 e 3H2 ->s}2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O u2", "correct": false}
+{"formula": "H + O2 -> HO", "correct": false}
+{"formula": "m  O2 -w CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O }+_eO2", "correct": false}
+{"formula": "2_H^2O2 -> H2O + O2", "correct": false}
+{"formula": "2H2O2 -^m 2H2O  O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2N3", "correct": false}
+{"formula": "2  3H2 -> 2_NH3", "correct": false}
+{"formula": "H2 + O2 p> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> C O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 _-> j2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2", "correct": false}
+{"formula": "N2d+ 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 +^lO2 n> H2O", "correct": false}
+{"formula": "N2+ 3j2 -> NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 +3H2 -{> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H + O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 +i3H2 -> 2fH3", "correct": false}
+{"formula": "N2  3H_2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O+ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "p2  3H2 -> 2NH", "correct": false}
+{"formula": "2H2O2 ^-> 2H2O+ O2", "correct": false}
+{"formula": "H2+ O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + H2 ->2NH3", "correct": false}
+{"formula": "C + O -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O -> H2O", "correct": false}
+{"formula": "H2 +O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 > 2}NH}3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + O2 -> H2O", "correct": false}
+{"formula": "H2q+ O2-> H2O^", "correct": false}
+{"formula": "{ + Ok -> CO2", "correct": false}
+{"formula": "H2 + t2  -> H2O_", "correct": false}
+{"formula": "H2q+O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "{C + O2 -> ^CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2  -> 2NHf", "correct": false}
+{"formula": "H2 + 2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + g2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 - 2H2O +mO2", "correct": false}
+{"formula": "a2 + O2y->H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O 2 -> H2O", "correct": false}
+{"formula": "H2 + c2 g> H2O", "correct": false}
+{"formula": "^2H2}}O2 -> 2H2O + O2", "correct": false}
+{"formula": "C+ O2 -> {C^O2", "correct": false}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> O", "correct": false}
+{"formula": "C + Og2 -a CO2", "correct": false}
+{"formula": "H2 + e2 - H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2^N}f3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2 + 2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Nk + 3H2 ->u2NH3", "correct": false}
+{"formula": "H2 +} O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C }+ O2 -u CO2", "correct": false}
+{"formula": "H2 + i2 -> H2O", "correct": false}
+{"formula": "C + O2 -> O2", "correct": false}
+{"formula": "H2 s Ok - H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2+ O-> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +  O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2-> 2NHx", "correct": false}
+{"formula": "N2  3n2-> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2{H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + Oud", "correct": false}
+{"formula": "No + 3H2 -> 2NH3", "correct": false}
+{"formula": "C }+ O^2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HO2 -> uH2O + O2", "correct": false}
+{"formula": "C + Op-> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C +2 -> CO2", "correct": false}
+{"formula": "H2  O2 ->H2O", "correct": false}
+{"formula": "C + ch-> CO2", "correct": false}
+{"formula": "N2 + ^3H} -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2  3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C +qO2 {-> ^CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H}2 ->} 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + }3{H2 -> 2NH", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2z+ O2 -> H2d", "correct": false}
+{"formula": "N2 + 3H2 ->w2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -_j 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + Oo ->H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 ->} 2y2O + }O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O+ O2", "correct": false}
+{"formula": "Cd+ O2} -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2Nb_3", "correct": false}
+{"formula": "H2  O2 -> H2g", "correct": false}
+{"formula": "2H2O2 ->2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2Or -> 2HO + O2", "correct": false}
+{"formula": "C + ^O2 -> CO2", "correct": false}
+{"formula": "C^ + O2 -> mO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H 2 ->d2N_H3", "correct": false}
+{"formula": "2H2O2 -> 2H2O{^ + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2N{H3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 22O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2_ + 2 ->{ H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "C +_ O2 j>xCO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 > 2NH3", "correct": false}
+{"formula": "C  + O2 -> CO2", "correct": false}
+{"formula": "N2 k 3H2-> 2Na3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + 2 t> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 - > H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "f2 + O2 ->  H2O", "correct": false}
+{"formula": "H2 + O2  H2O", "correct": false}
+{"formula": "H2 + O2 - H2O", "correct": false}
+{"formula": "C + O2 x> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 n+ O2-> H2O", "correct": false}
+{"formula": "2H2O2 -> 2HvO + O2", "correct": false}
+{"formula": "H + O2 -w H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C +O2q->} CO2", "correct": false}
+{"formula": "H2+ O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2   O -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2+ O2 }-> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "h2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2{H2O2 u> 2HyO + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2{H2O + O", "correct": false}
+{"formula": "2k2O2 -> 2H2_O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -r 2H2O + O2", "correct": false}
+{"formula": "H2  + O2} _-> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2k-> 2H2l + O2", "correct": false}
+{"formula": "N2+ 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2x> 2N3", "correct": false}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 +{ 3Hw -> 2NH", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> COl", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 - 2H2O + O 2", "correct": false}
+{"formula": "C + O2 - C^O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2- sO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2 NH3", "correct": false}
+{"formula": "H2 o 2u-> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + H2 - 2N3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2 + O2 > H2O", "correct": false}
+{"formula": "H2 + O2v-g> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C iO2 ->kCO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 {+ 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O_2 -> H2O", "correct": false}
+{"formula": "2H2O{2 ->2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "22O2 > 2x2O + O2", "correct": false}
+{"formula": "2 H2u2 -}> 2H2O + O2", "correct": false}
+{"formula": "C  + O2 -> CO^2", "correct": false}
+{"formula": "N2 + 3H2 -> 2N{H3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2^ -> 2H2O + O{2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2}NH", "correct": false}
+{"formula": "H2O2 -> 2H2^O +aO2", "correct": false}
+{"formula": "2H2O2 ^-> 2H2O + {O2", "correct": false}
+{"formula": "C + O ->} C2", "correct": false}
+{"formula": "Ns + 3H{2 -> 2NH3", "correct": false}
+{"formula": "H2} +aO2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + 2 {->H2O", "correct": false}
+{"formula": "N2 + 3Ha  -}> 2NH3", "correct": false}
+{"formula": "Hy + O2 -> H2O", "correct": false}
+{"formula": "N2  3H2-> 2Nr3", "correct": false}
+{"formula": "C  O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 ^+ O2 -> H2O", "correct": false}
+{"formula": "C +  -}> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "^N2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + Oy -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2  -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2Hy + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O^2 -> CO2", "correct": false}
+{"formula": "C + }O2 - COe", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Hi + x2-> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -p 2NH3", "correct": false}
+{"formula": "C  O2u-> O2", "correct": false}
+{"formula": "C + O2 -> COz", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C  O2{ -t CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2N H3", "correct": false}
+{"formula": "C + O2 ->uCO", "correct": false}
+{"formula": "2H2O{2 - > 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C  O2->eCO2", "correct": false}
+{"formula": "C + O2v-> CO2", "correct": false}
+{"formula": "C + O2 -e CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2_ -> H2O", "correct": false}
+{"formula": "H2 + ^O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2tm O2", "correct": false}
+{"formula": "C  + O2 -> iO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 >nCO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O -> 2H2 + O}2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "Cz+ _O2 ->mCO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 ->h2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 h> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2h-> 2H2O + 2", "correct": false}
+{"formula": "C + O2 -> O2{", "correct": false}
+{"formula": "C +^ O2 -> O2", "correct": false}
+{"formula": "2 + 3H -> 2NH3", "correct": false}
+{"formula": "a + O2 - > CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + }O2 -> H{2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "{2H22{ -> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 - H2O", "correct": false}
+{"formula": "2H2Oh{ -> 2H2O  O2", "correct": false}
+{"formula": "2H2}O2 -> 2H2O + O2 ", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 l 3H2 -> 2NH3", "correct": false}
+{"formula": "C+ O2 r> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Nb + rH2 -> 2NH3", "correct": false}
+{"formula": " + O2 ->_ dO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2  3H2 - 2NH3", "correct": false}
+{"formula": "C + O2-> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2-> }2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2  3H}2f-> 2NH3", "correct": false}
+{"formula": "H2 + O2 }z> H2 O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C_ + O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 v> 2H2O ^_+ O2", "correct": false}
+{"formula": "2H2O2 ->2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HO2 > 2H2O +  O2", "correct": false}
+{"formula": "N2 + 3H^2 -> 2NH3", "correct": false}
+{"formula": "H2 + O_p p> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 p> 2NH3", "correct": false}
+{"formula": "C + O2 -> Ok", "correct": false}
+{"formula": "t2 + e2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -}> fH2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C }+ O2 -> CO_2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2  O2 -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "Na + 3H2 - 2NH{3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 ->2H2O + O2", "correct": false}
+{"formula": "wH2O2 -> H2O + O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C O2 -> CO2{", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2Ho + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Cn+ O2 {-> CO", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2l+ 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -c CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O}2 -> 2H2O a O2", "correct": false}
+{"formula": "2H2O2 -> 2HO + O2", "correct": false}
+{"formula": "H2 + O2  -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> sH2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HuO_2 -> 2H2O + O2 ", "correct": false}
+{"formula": "H2a+ O2 -o H2O", "correct": false}
+{"formula": "N2p + 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2O2 -> 2h2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2_", "correct": false}
+{"formula": "m^ + _O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2- CO2_", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2HzO2ir> 2H2O + O2", "correct": false}
+{"formula": "H2  + l2 > H2O", "correct": false}
+{"formula": "N2 uH2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -v 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O -> CO2", "correct": false}
+{"formula": "N2 +k_3H2 -> 2N3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C  O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 p> H2O", "correct": false}
+{"formula": "N2 + 3H2 d>d2N3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C_ + O2 g> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 +jO2 -> HxO", "correct": false}
+{"formula": "2x2O2 ->b2H2O {+ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O{ + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 +zO2 -> H2O", "correct": false}
+{"formula": "2a2O -> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O +oO2", "correct": false}
+{"formula": "k2 + O2- H2O", "correct": false}
+{"formula": "N2 + 3Hj> 2NH3", "correct": false}
+{"formula": "C +{ O2 -> O2", "correct": false}
+{"formula": "N2 + 3s2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> fOx", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2+ O2k-> H2O", "correct": false}
+{"formula": "N2 + 3H2 }-> 2NH3", "correct": false}
+{"formula": "C + _^O2 ->CO2", "correct": false}
+{"formula": "H2 O2z-> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H22 -> 2H2O +} O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "22O2 -> 2H2 + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + q2 ->aCO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2} -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2O2 -> 2H2O + O2", "correct": false}
+{"formula": "n2 + O2 -> _H2O_", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2{HO h O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Nij+ 3H2 ->  2NH3", "correct": false}
+{"formula": "2HO2 -> 2H2O^ + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2+ 3H2 b> 2NH3", "correct": false}
+{"formula": "C + O2-> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 ^+ 3H2 - 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "_C + O2 -> CO2", "correct": false}
+{"formula": "N2u+ 3H2 -> 2N3", "correct": false}
+{"formula": "N2b+ 3H2s-> 2NH3", "correct": false}
+{"formula": "N2 + 3Hn -> 2NH3", "correct": false}
+{"formula": "H2 +}cO{2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2Om+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C }+ O2 > CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "_H2 + O2> H2O", "correct": false}
+{"formula": "N + 3H2 }- > 2NH3", "correct": false}
+{"formula": "2H2O2 ->_ 2H2O + O2", "correct": false}
+{"formula": "2H2O2 w> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + }Of -> H2O", "correct": false}
+{"formula": "N2 gpH2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2r+ 32 -> 2NHl", "correct": false}
+{"formula": "N2 + bH2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -e 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O +O2", "correct": false}
+{"formula": "2H2O2 -> H2O + g2", "correct": false}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2b2O2-> 2H2O + e2", "correct": false}
+{"formula": "2H2O2 > 2H2O + O2", "correct": false}
+{"formula": "N + 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2r O2 -> H2O", "correct": false}
+{"formula": "2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2_ -> 2NH3", "correct": false}
+{"formula": "2}HO2 -> 2H2O +O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2HO2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2^H2 }+ O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 a O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2^", "correct": false}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 ->} 2H}2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C^ + O2-> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C ^+ O -> _CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + b2 -> 2fH3", "correct": false}
+{"formula": "N2 + 3H -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "hH2O2 -> 2H2O ^+ 2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2+ 3H2-> 2H3", "correct": false}
+{"formula": "H2 +dO{2 ->H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NHb", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2Og+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O - H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O > CO 2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> O2", "correct": false}
+{"formula": "2_H2O2 -> 2H2O +k2", "correct": false}
+{"formula": "2H2O2 -> 2H2k +^ O2", "correct": false}
+{"formula": "C + O2 -v CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + O2 -> H2O", "correct": false}
+{"formula": "C + O2} -> CO2", "correct": false}
+{"formula": "2H2O2b-> 22v + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O w O2^", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 c>_ 2NH3", "correct": false}
+{"formula": "C + O2 h> O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2  d> C_O2", "correct": false}
+{"formula": "2HO2 -> 2H2O + O2", "correct": false}
+{"formula": "C +_O2 -_> CO2", "correct": false}
+{"formula": "H2 }+ O2 -> H2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 ->2NH3", "correct": false}
+{"formula": "C+ O2 > C{O2", "correct": false}
+{"formula": "N2+ 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2h2O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C  + O2 -> COb2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 >2H2O+ O2", "correct": false}
+{"formula": "Cn+ O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 ->  2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "k q O2 -r CO2", "correct": false}
+{"formula": "2HO2 -> HO + O2", "correct": false}
+{"formula": "C + O2 -u CO2", "correct": false}
+{"formula": "H2 i O2 -> 2O", "correct": false}
+{"formula": "2HO2 -c 2H2O m O2", "correct": false}
+{"formula": "z+ O2c-> CO2", "correct": false}
+{"formula": "N2 + 3H2 -b  2NH3", "correct": false}
+{"formula": "2H2O2 ->z2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2u2 -> 2H2O O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> COw", "correct": false}
+{"formula": "N2 + 3H2{v-h 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + Ox -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "h}2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + 2 -> lO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C +O2 -> C^O2", "correct": false}
+{"formula": "N2{ o 3H2 - 2NH3", "correct": false}
+{"formula": "H2s+ O2 ->tH2O{", "correct": false}
+{"formula": "H2 +} O2-> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 b O2 -> H2O", "correct": false}
+{"formula": "2 +} 3H2 -> 2iH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + m2 -> CO2", "correct": false}
+{"formula": "H2 +O2 -> H2", "correct": false}
+{"formula": "C + O2  -> CO2", "correct": false}
+{"formula": "N2  3H2 -> 2iH", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 +O2 ->H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Hc+ O2 r> H2O", "correct": false}
+{"formula": "H2 + O2 -> HcO", "correct": false}
+{"formula": "2H2Owi-> 2HO + O2", "correct": false}
+{"formula": "C+ O2 ->CO2", "correct": false}
+{"formula": "C +O2 -> CO2", "correct": false}
+{"formula": "N2f+{ vH2 -> 2NH3", "correct": false}
+{"formula": "Ne2 + 3H2^ -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> _xNH3", "correct": false}
+{"formula": "2H2O2 }-> lH2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2Nx3", "correct": false}
+{"formula": "H2 + O2}{ -h H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "222 -> 2HO + O2", "correct": false}
+{"formula": "N + ^H2 -> 2NH3", "correct": false}
+{"formula": "H2 + Oj -> 2O", "correct": false}
+{"formula": "H2 + O2 j> H2O", "correct": false}
+{"formula": "N2 + 3H^2 -c 2NH", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2HoO + O2", "correct": false}
+{"formula": "H2 + tv _-> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2  > 2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2{", "correct": false}
+{"formula": "2H2O2 -> 2H2Oq+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O  -> 2H2O + O2", "correct": false}
+{"formula": "H2e+ O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2+ 3H2-> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2_ -> 2NH3", "correct": false}
+{"formula": "C j O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 > 2N H3", "correct": false}
+{"formula": "2H 2O2 -> 2H2O + w2", "correct": false}
+{"formula": "C + {O2 ^-> COz", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Ny + 32 -^> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O s> HrO", "correct": false}
+{"formula": " H2 + O2 -k g2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2_ -}> 2NH_3", "correct": false}
+{"formula": "2H}2O2 -> 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O +eO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H 2O2 -> 2HuO +{ O2", "correct": false}
+{"formula": "H2 + O2->^ H2O", "correct": false}
+{"formula": "2H2O2 - 2H2O + O2", "correct": false}
+{"formula": "N2f+ 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C f O2 -> CO2", "correct": false}
+{"formula": "C + O2i->C2", "correct": false}
+{"formula": "C l O2 -h CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H{2O2 -> 2H2 +O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "e +jO -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O +lO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "22O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2{ + 3H -> 2NH 3", "correct": false}
+{"formula": "N2a w 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 ^+ O2 -> O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> ^2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> }2hH3", "correct": false}
+{"formula": "N2 +3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3Hj -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 e H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2gH3", "correct": false}
+{"formula": "N2 + 3H2-> 2}NH3", "correct": false}
+{"formula": "N2 + 3H2-> cNH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2  -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2Nr3", "correct": false}
+{"formula": "H2 + O 2 ->qH2O", "correct": false}
+{"formula": "N2 + H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> C}O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 w>_ CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 - 2H2O +} O2", "correct": false}
+{"formula": "2H2O2 > 2H2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + iH2 -> 2NH3", "correct": false}
+{"formula": "  O2 -}> CO2", "correct": false}
+{"formula": "H_2 + O2 -> H2O", "correct": false}
+{"formula": "2H_2O2 - 22O + O2", "correct": false}
+{"formula": "2 + O2 -e H2O", "correct": false}
+{"formula": "H2 + O2 -> HpO", "correct": false}
+{"formula": "22O2 ->2H2O+ O2", "correct": false}
+{"formula": "C+^ O2 -> CO2", "correct": false}
+{"formula": "H2 +cO2 -> w2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Nt + 3H -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C  O2 -CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": " +gOm -> CO2", "correct": false}
+{"formula": "H2  + 2 ->{ H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + u2 > H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + 2 -> H2g", "correct": false}
+{"formula": "N2 + 3Hg_ -> ^2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2^ + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N + 3H2 -> 2NH", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "2H2O2 -> 2HO  O2", "correct": false}
+{"formula": "2H2O2m-> 2H2O + O2", "correct": false}
+{"formula": "2H2l2 c> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2}", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C +O2 ->CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2 + O2", "correct": false}
+{"formula": "2n2O2 -> 2H2Op+ O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": " + O2 -> {O2", "correct": false}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + cw -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "q2 + 3H2> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O  O2", "correct": false}
+{"formula": "C + O2  v CO2", "correct": false}
+{"formula": "H2 +  O2a -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Cy+ O2 -> Ck2", "correct": false}
+{"formula": "N2 + 3H2 ^> 2NH3^", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2g-> 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 ->{ CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 +{ 3n2 -> 2zH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "a + O2  -> CO2", "correct": false}
+{"formula": "x + O2 _-> CO^2", "correct": false}
+{"formula": "N2 + 32 -> 2NH3", "correct": false}
+{"formula": " 2H2O2 -> 2HvO + O2", "correct": false}
+{"formula": "N2 + 3H2 ->} fNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2t", "correct": false}
+{"formula": "C + ^O2 - >CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + 2 -> H2O", "correct": false}
+{"formula": "N2 +3H2 -> 2zH3", "correct": false}
+{"formula": "N2 + 3mv -> 2NH3", "correct": false}
+{"formula": "2H2O x -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C_ + O2 -> O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + 2 -> H2O", "correct": false}
+{"formula": "C + O2 ->O2", "correct": false}
+{"formula": "2H2O2 -> 2}H{2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2  -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O +_ O2", "correct": false}
+{"formula": "C +O2 ^-> O2", "correct": false}
+{"formula": "H2 +} O2 > H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 }+ 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 }-> H_2 O", "correct": false}
+{"formula": "2H^2O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 32 -> fNH3", "correct": false}
+{"formula": "H2 + O2g-> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2c-> COn", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C+ O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C  O -w CO2", "correct": false}
+{"formula": "2l+ n2 -> H2O", "correct": false}
+{"formula": "2 + 3He -> NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2v2 -> {2H2O + O2", "correct": false}
+{"formula": "C + O 2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2Ob w> 2H2O + O2", "correct": false}
+{"formula": "C + ^O2 - CO", "correct": false}
+{"formula": " + g2 -^> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2w -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> pH2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2Oz+ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 ->^ H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O  O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Np + 3H2 -j 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 ->c2NH3", "correct": false}
+{"formula": "C + O2 -> CO_p", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2}H2O + O2 ", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H + O2 -> H2O ", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 cO2 -> r2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2u", "correct": false}
+{"formula": "}C + O 2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O_2 -> H2O", "correct": false}
+{"formula": "m2 + 32 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -x i2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + _O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "_H2 + O2 >H2O", "correct": false}
+{"formula": "^C + O2 > CO2", "correct": false}
+{"formula": "C + O2 - Cn", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "u}H2Oi -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2  -> CO2", "correct": false}
+{"formula": "Cf+ O2 -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O^2 -x 2H2O +qO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2HzO 2 -> 2H2O +xO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 _->oHdO", "correct": false}
+{"formula": "2H2O2 -> 2h2O + O2", "correct": false}
+{"formula": "N2 + 3H2 - 2NH3", "correct": false}
+{"formula": "N2 _+ 3H2r-> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2d+ 3H2 -y 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + 2 -^> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N + 3H2 -> 2NH3", "correct": false}
+{"formula": "C + O -> CO2{ ", "correct": false}
+{"formula": "o + O2 -> CO_2", "correct": false}
+{"formula": "N2 + 3H2  -> 2NH3", "correct": false}
+{"formula": "2H2O_2 > 2H2}O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2} ->{ 2H2O +O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2v-> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": " C ^+ O2 -> C O2", "correct": false}
+{"formula": "2H2O -> 2H2 O + O2", "correct": false}
+{"formula": "N2 + 3H2 - 2z H3", "correct": false}
+{"formula": "C + O2 _->^ CO2", "correct": false}
+{"formula": "H2 + O2^ ->H2O ", "correct": false}
+{"formula": " + O-> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O}2", "correct": false}
+{"formula": "2H2O2 ->^ 2H2O + O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 > CO2", "correct": false}
+{"formula": "_C +_ O2{ -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH 3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2- 2eH3", "correct": false}
+{"formula": "C + O2 u{> CO2", "correct": false}
+{"formula": "_ + O2 -> Cq2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2s+h32 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 ->{ H2 O^", "correct": false}
+{"formula": "{p2 +v3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2y+ 3H2 ->2mH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2f> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3^", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "yH2O2 p > 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C +O2 ->d}CO2", "correct": false}
+{"formula": "H2+ _O2 q> H2O", "correct": false}
+{"formula": "2{}H2O2 -> 2H2O + Ov", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H 2O2 ->2}H2O + O2", "correct": false}
+{"formula": "H2 +zr2 -> H2O", "correct": false}
+{"formula": "2H{2O2 - 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Nf{ + 32 -> 2NH3", "correct": false}
+{"formula": "H2 y O2a-> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 +  3H2 -_> 2NH3", "correct": false}
+{"formula": "2 + 3 2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 > 2H2O +^ O2", "correct": false}
+{"formula": "2z2O2k-> 2H2 O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 32 -> 2NH3", "correct": false}
+{"formula": "C d O2r-> hO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "C + 2 -> CO", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -b 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> adH3", "correct": false}
+{"formula": "_C + O2 > CO", "correct": false}
+{"formula": "C +pO2 -> C^O2", "correct": false}
+{"formula": "2H2O2-> 2H2O + O2", "correct": false}
+{"formula": "C +mO^2 -}> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + Oe", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2  O2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2q->} 2H3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3b2 -> 2NH3", "correct": false}
+{"formula": "2H_2O2 -> 2H2O }+ O^2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 22O + O2", "correct": false}
+{"formula": "H2 gqO2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +qO2  -> CO2", "correct": false}
+{"formula": "2h2O2 -> 22Ov+ O2", "correct": false}
+{"formula": "_C + 2 -> iO2", "correct": false}
+{"formula": "H^2 + O2 > H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C  O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 +i{3H2 -> 2NH", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2{ -> H2O", "correct": false}
+{"formula": "2H_2O2 -^> wH2O + O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2_ -> O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H + O2 -> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C  + O2 -> xOp", "correct": false}
+{"formula": "x2 + 3H2 -> 2NH^u", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> H2O + O2", "correct": false}
+{"formula": "H2  + O{2 -> H2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2z+ O2 -> HO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2n+_ O2 -> H2O", "correct": false}
+{"formula": "C +} i2 }-> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2 O + _O2", "correct": false}
+{"formula": "C + O2 -> {CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Hs + O2 ->kH2^O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2o2O2 -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "j2 + O2 -> H2O", "correct": false}
+{"formula": "N2 + 3{H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2  3H2 -> {2NH3", "correct": false}
+{"formula": "C +jO2 -> CO2", "correct": false}
+{"formula": "C u O2s> CO2", "correct": false}
+{"formula": "H2 + O2 -> g2O", "correct": false}
+{"formula": "H2 +mO2 ->uH2p", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2_-_> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H^2 + O2 -> HO", "correct": false}
+{"formula": "C + O2 -> pO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + ^O2 ->  jO2", "correct": false}
+{"formula": "2H2O2 ->f2H2O + O2", "correct": false}
+{"formula": "2H2O2 - 22O+ O2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2x2 -> 2H2O +^ O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3_H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "f + O2-> H2O", "correct": false}
+{"formula": "N2 +} 3Hn -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> HO", "correct": false}
+{"formula": "C + _2 -> Ce2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2^^ + qH2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> ^2H2O + O}2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H 2 + O2 -> H2", "correct": false}
+{"formula": "j2 + O2 -> _H2O", "correct": false}
+{"formula": "2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H^2 ->_ 2NH3", "correct": false}
+{"formula": "N2 + ^3H2 > 2NH3", "correct": false}
+{"formula": "C +O^2 -> C}O2", "correct": false}
+{"formula": "N2 +3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "Cp O2 -> CO", "correct": false}
+{"formula": "h + O2 -> COe", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O -> 2H2O + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2_2 ->2H2O + O2", "correct": false}
+{"formula": "_C + O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "Cs+O2 -> COy", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "Cc+ O2 - CO2", "correct": false}
+{"formula": "H2O2 -> H2O + O}2", "correct": false}
+{"formula": "H2 + O2 -> H2O}", "correct": false}
+{"formula": "C i O 2 -> C2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N +3H2 -> 2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "kH2O2 -> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 >{ H2", "correct": false}
+{"formula": "H2  + O2 z>H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "No + 3H2 ->  2NH3", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2  + O2 >  H2O", "correct": false}
+{"formula": "2H2O2q-> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "w + O2 -> CO2", "correct": false}
+{"formula": "r2+ m2 -> H2O", "correct": false}
+{"formula": "2q2O2 -> 2H2O+ O2", "correct": false}
+{"formula": "H2 + O2-> h2O", "correct": false}
+{"formula": "2H2O2 -> 2H2{Ow+ O2{", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "Cj+ O2 -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 +  O2 y> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2  -> 2NH3", "correct": false}
+{"formula": "H2 + ^O2 w> H2O{", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2HaO2 -> 2H2^O + }O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2-> 2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C +{ 2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2}O2 ->2H2O  O2", "correct": false}
+{"formula": "N2 + bH2 r> 2NH3", "correct": false}
+{"formula": "H2 + 2 -> 2O}", "correct": false}
+{"formula": "H^2 +kO2 -> 2O", "correct": false}
+{"formula": "H2 +} O2 -_> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2+ O2 -> 2O", "correct": false}
+{"formula": "H{2 + O2 -> H2O", "correct": false}
+{"formula": "C + O2 ->^ CO_2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -v 2HO + O2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 m> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H_2O + O2", "correct": false}
+{"formula": "k2 n 3H2 -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 ->_ CO2", "correct": false}
+{"formula": "Cj+ O2 -> CO_2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C  Oj -> CO2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2 + 3H2 -> qNH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 ->2_H2O + O2", "correct": false}
+{"formula": "H2 + O2 ->_ H2O", "correct": false}
+{"formula": "H2+ O2 ->rH2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2  -> H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + Om-> O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C n O2-> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C +aO2 -> Cq}2", "correct": false}
+{"formula": "H2 + O2n-> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2HO + O}2", "correct": false}
+{"formula": "N2 + 3H2 -> }2NH", "correct": false}
+{"formula": "C +   O2 -> CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> Cl{2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + z2 ->} H{2O", "correct": false}
+{"formula": "N2 + tH2 p> 2NH3", "correct": false}
+{"formula": "H2 { + O2 -> H2O", "correct": false}
+{"formula": "H2 ^+ Ou -> H2l", "correct": false}
+{"formula": "2 + 3H2d -> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": " + O2 -> CO2", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "}N_2 + 3H2h-> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2  O2 -> _H2O", "correct": false}
+{"formula": "C + O2 -> CO", "correct": false}
+{"formula": "Nt + 3H2 _-> 2NH3", "correct": false}
+{"formula": "C + O2 _-> C^O2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "C^ + O2v- > CO2", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O -> CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2Nu3", "correct": false}
+{"formula": "H2 + 2 -> H2O", "correct": false}
+{"formula": "N2 + 3H2 -> }2NdH3", "correct": false}
+{"formula": "Hc +oO2 {-> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "}H2 + O 2 -> {H2O", "correct": false}
+{"formula": "C + Ow - > CO2", "correct": false}
+{"formula": "H2^ + O2 -> HO", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> m2O", "correct": false}
+{"formula": "2H2O2 > 2H2O + _O2", "correct": false}
+{"formula": "2HqOg -> 2H2O +  O2", "correct": false}
+{"formula": "N2 + 3o2 ->^ 2NH3", "correct": false}
+{"formula": "N2 +n3H2 ->NH3", "correct": false}
+{"formula": "H2k+ O2 -> 2O ", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "N2x+ 3H2 -> 2H3", "correct": false}
+{"formula": "H2 q O2 -> H2O", "correct": false}
+{"formula": "N2 +} 3H2 -> lNH3", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N_ + 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 -> Hbh", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H}2 + O_2 -> H2O", "correct": false}
+{"formula": "N2 + 3w2 ->  2NH3", "correct": false}
+{"formula": "C +vO_2 -> CO2", "correct": false}
+{"formula": "2H2O2 ->f2H2O + Oj", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2t+ 3H2 -> 2NH3", "correct": false}
+{"formula": "H2 + O2 - H2O", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O -> 2H2O + O2", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> {qH2O + O2", "correct": false}
+{"formula": "Nv + 32 - 2NH3", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O_2 ->  2k2O + O2", "correct": false}
+{"formula": "H2 + O2 t> H2O", "correct": false}
+{"formula": "C + O2 -> CO2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "H2 }+ O2> H2O", "correct": false}
+{"formula": "N2 + 3H  -> 2N3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "N2 + 3H -> {2NH", "correct": false}
+{"formula": "C} +O2 -> CO2_", "correct": false}
+{"formula": "2H2O2 -> 2H}2O + O2", "correct": false}
+{"formula": "2H^2O2 -> 2H2O + O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 ->t2lHa", "correct": false}
+{"formula": "C + O -> CO2", "correct": false}
+{"formula": "2H2O -> 2H2O + O2_", "correct": false}
+{"formula": "H2 +  O2 -> H2O", "correct": false}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "H2 + O2 -> H2O", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "c2 + 3H2 -> 2NH", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "w2 + 3H2{w-> 2NH3", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
+{"formula": "C + h2 ->_ CO2", "correct": false}
+{"formula": "2H2O2 -> 2H2O + O2", "correct": true}
+{"formula": "_2H2O2 -> 2H2 + Oz", "correct": false}
+{"formula": "H2 + O2 -> w2O", "correct": false}
+{"formula": "N2 + 3H2 -> 2NH3", "correct": true}
