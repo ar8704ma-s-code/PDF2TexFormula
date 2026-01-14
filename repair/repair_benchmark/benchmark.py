@@ -1,206 +1,208 @@
-# python src/benchmark/benchmark.py <paper_id>
-
 import json
 import re
-import tarfile
-import tempfile
-from pathlib import Path
-import difflib
-import numpy as np
-import sys
+from collections import defaultdict
 
+# --------------------------
+# Normalization
+# --------------------------
 
-class BenchmarkSingle:
-    def __init__(self, paper_id: str):
-        self.paper_id = paper_id
-        self.gt_tar = Path("data/arxiv_math/tex") / f"{paper_id}.tar.gz"
-        self.pred_dir = Path("output") / paper_id
+def normalize_latex(s: str) -> str:
+    """Normalize LaTeX to reduce superficial formatting differences."""
+    if s is None:
+        return ""
+    s = s.strip()
+    s = re.sub(r"\\begin\{.*?\}", "", s)
+    s = re.sub(r"\\end\{.*?\}", "", s)
+    s = s.replace("\\[", "").replace("\\]", "").replace("$$", "")
+    for cmd in ["\\,", "\\;", "\\:", "\\!", "\\quad", "\\qquad", "\\thinspace", "\\ "]:
+        s = s.replace(cmd, "")
+    s = s.replace("\\left", "").replace("\\right", "")
+    s = re.sub(r"\s+", "", s)
+    s = s.replace("{", "").replace("}", "")
+    return s
 
-    # ============================
-    # Extract GT formulas (from tar.gz)
-    # ============================
-    def extract_gt(self):
-        if not self.gt_tar.exists():
-            print(f"[GT] Missing GT tar.gz: {self.gt_tar}")
-            return []
+# --------------------------
+# LCS (for char-level and token-level)
+# --------------------------
 
-        formulas = []
-        patterns = [
-            r"\\begin\{equation\*\}(.*?)\\end\{equation\*\}",
-            r"\\begin\{equation\}(.*?)\\end\{equation\}",
-            r"\\begin\{align\*\}(.*?)\\end\{align\*\}",
-            r"\\begin\{align\}(.*?)\\end\{align\}",
-            r"\$\$(.*?)\$\$",
-            r"\\\[(.*?)\\\]",
-        ]
+def lcs_len(a, b) -> int:
+    """Compute LCS length for sequences (strings or token lists)."""
+    n, m = len(a), len(b)
+    if n == 0 or m == 0:
+        return 0
 
-        try:
-            with tarfile.open(self.gt_tar, "r:gz") as tar:
-                with tempfile.TemporaryDirectory() as tmp:
-                    tar.extractall(tmp)
-                    tex_files = list(Path(tmp).rglob("*.tex"))
+    # Use DP with O(min(n,m)) memory
+    if m > n:
+        a, b = b, a
+        n, m = m, n
 
-                    if not tex_files:
-                        print(f"[GT] No TeX files inside: {self.gt_tar}")
-                        return []
+    prev = [0] * (m + 1)
+    for i in range(1, n + 1):
+        cur = [0] * (m + 1)
+        ai = a[i - 1]
+        for j in range(1, m + 1):
+            if ai == b[j - 1]:
+                cur[j] = prev[j - 1] + 1
+            else:
+                cur[j] = max(prev[j], cur[j - 1])
+        prev = cur
+    return prev[m]
 
-                    for tex in tex_files:
-                        content = tex.read_text(errors="ignore")
-                        for p in patterns:
-                            for m in re.findall(p, content, flags=re.S):
-                                f = re.sub(r"\s+", " ", m.strip())
-                                if len(f) > 5:
-                                    formulas.append(f)
+def lcs_sim_char(a: str, b: str) -> float:
+    """Character-level LCS similarity normalized by max length."""
+    a = normalize_latex(a)
+    b = normalize_latex(b)
+    if not a and not b:
+        return 1.0
+    if not a or not b:
+        return 0.0
+    L = lcs_len(a, b)
+    return L / max(len(a), len(b))
 
-        except Exception as e:
-            print("[GT] Extraction error:", e)
+# --------------------------
+# Levenshtein similarity (strict / edit-distance)
+# --------------------------
 
-        return formulas
+def levenshtein(a: str, b: str) -> int:
+    if a == b:
+        return 0
+    if len(a) == 0:
+        return len(b)
+    if len(b) == 0:
+        return len(a)
 
-    # ============================
-    # Extract prediction formulas (pipeline repaired)
-    # ============================
-    def extract_pred(self):
-        tex_files = list(self.pred_dir.glob("*_repaired.tex"))
-        if not tex_files:
-            print(f"[Pred] No repaired tex in: {self.pred_dir}")
-            return []
+    # Ensure a is shorter
+    if len(a) > len(b):
+        a, b = b, a
 
-        formulas = []
-        for tex in tex_files:
-            content = tex.read_text(errors="ignore")
-            matches = re.findall(
-                r"\\begin\{equation\*\}(.*?)\\end\{equation\*\}",
-                content,
-                flags=re.S
-            )
-            for m in matches:
-                f = re.sub(r"\s+", " ", m.strip())
-                if len(f) > 5:
-                    formulas.append(f)
+    prev = list(range(len(a) + 1))
+    for i, cb in enumerate(b, 1):
+        cur = [i]
+        for j, ca in enumerate(a, 1):
+            cur.append(min(
+                cur[j - 1] + 1,           # insert
+                prev[j] + 1,              # delete
+                prev[j - 1] + (ca != cb)  # substitute
+            ))
+        prev = cur
+    return prev[-1]
 
-        return formulas
+def lev_sim(a: str, b: str) -> float:
+    """Normalized Levenshtein similarity = 1 - edit_dist / max_len."""
+    a = normalize_latex(a)
+    b = normalize_latex(b)
+    if not a and not b:
+        return 1.0
+    if not a or not b:
+        return 0.0
+    dist = levenshtein(a, b)
+    return 1.0 - dist / max(len(a), len(b))
 
-    # ============================
-    # Similarity
-    # ============================
-    def sim(self, a, b): 
-        return difflib.SequenceMatcher(None, a, b).ratio()
+# --------------------------
+# Structural similarity: LCS over LaTeX command sequences
+# --------------------------
 
-    # ============================
-    # Full benchmark
-    # ============================
-    def run(self):
-        gt = self.extract_gt()
-        pred = self.extract_pred()
+_cmd_pat = re.compile(r"\\[a-zA-Z]+")  # commands like \hat, \max, \mathcal
 
-        if not gt or not pred:
-            print(f"[Benchmark] Missing formulas for {self.paper_id}")
-            return None
+def extract_commands(s: str):
+    s = normalize_latex(s)
+    return _cmd_pat.findall(s)
 
-        similarities = [self.sim(g, p) for g in gt for p in pred]
+def structural_sim(a: str, b: str) -> float:
+    """LCS similarity over LaTeX command lists, normalized by max list length."""
+    A = extract_commands(a)
+    B = extract_commands(b)
+    if not A and not B:
+        return 1.0
+    if not A or not B:
+        return 0.0
+    L = lcs_len(A, B)
+    return L / max(len(A), len(B))
 
-        thresholds = [0.0, 0.3, 0.5, 0.7, 0.8, 0.9]
-        results = {}
+# --------------------------
+# Semantic token similarity: heuristic token overlap
+# --------------------------
 
-        for t in thresholds:
-            tp = 0
-            used_gt = set()
-            used_pred = set()
+# Semantic tokens include LaTeX commands, identifiers, numbers, and restricted operators.
+_sem_pat = re.compile(r"""
+    \\[a-zA-Z]+            |  # LaTeX commands
+    [a-zA-Z]+              |  # alphabetic identifiers
+    \d+(?:\.\d+)?          |  # numeric literals
+    (<=|>=|!=|==)          |  # multi-char operators
+    [+\-*/=()_\^<>]           # restricted operators / structural symbols
+""", re.VERBOSE)
 
-            for i, g in enumerate(gt):
-                for j, p in enumerate(pred):
-                    s = self.sim(g, p)
-                    if s >= t and i not in used_gt and j not in used_pred:
-                        tp += 1
-                        used_gt.add(i)
-                        used_pred.add(j)
+def extract_semantic_tokens(s: str):
+    s = normalize_latex(s)
+    return _sem_pat.findall(s)
 
-            prec = tp / len(pred)
-            rec = tp / len(gt)
-            f1 = 2 * prec * rec / (prec + rec) if prec + rec else 0
+def semantic_token_sim(a: str, b: str) -> float:
+    """
+    Heuristic semantic similarity based on token overlap.
+    Here: LCS similarity over semantic token sequences (order-aware), normalized by max length.
+    """
+    A = extract_semantic_tokens(a)
+    B = extract_semantic_tokens(b)
+    if not A and not B:
+        return 1.0
+    if not A or not B:
+        return 0.0
+    L = lcs_len(A, B)
+    return L / max(len(A), len(B))
 
-            results[t] = {
-                "precision": prec,
-                "recall": rec,
-                "f1_score": f1,
-                "matched_pairs": tp,
-            }
+# --------------------------
+# Overall score (paper weights)
+# --------------------------
 
-        best_t = max(results.keys(), key=lambda t: results[t]["f1_score"])
+W_SEM = 0.4
+W_STRICT = 0.3   # Levenshtein
+W_STRUCT = 0.2   # command LCS
+W_ELEM = 0.1     # char LCS
 
-        return {
-            "paper_id": self.paper_id,
-            "gt_count": len(gt),
-            "pred_count": len(pred),
-            "similarity_stats": {
-                "min": float(np.min(similarities)),
-                "max": float(np.max(similarities)),
-                "mean": float(np.mean(similarities)),
-                "median": float(np.median(similarities)),
-            },
-            "threshold_results": results,
-            "best_threshold": best_t,
-        }
+def overall_score(sem, strict, struct, elem) -> float:
+    return (W_SEM * sem) + (W_STRICT * strict) + (W_STRUCT * struct) + (W_ELEM * elem)
 
+# --------------------------
+# Main evaluation
+# --------------------------
 
-# ============================
-# Write Markdown Summary
-# ============================
-def write_summary_md(result, path: Path):
-    gt = result["gt_count"]
-    pred = result["pred_count"]
-    stats = result["similarity_stats"]
+models = ["pix2tex", "1.5B", "7B"]
 
-    t = result["best_threshold"]
-    best = result["threshold_results"][t]
+with open("test_dataset.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
 
-    lines = [
-        f"# Benchmark Summary for {result['paper_id']}\n",
-        "## Formula Counts",
-        f"- Ground truth: **{gt}**",
-        f"- Predictions: **{pred}**\n",
-        "## Best Threshold",
-        f"- Threshold: **{t}**",
-        f"- Precision: **{best['precision']:.4f}**",
-        f"- Recall: **{best['recall']:.4f}**",
-        f"- F1 Score: **{best['f1_score']:.4f}**\n",
-        "## Similarity",
-        f"- Mean: **{stats['mean']:.4f}**",
-        f"- Median: **{stats['median']:.4f}**",
-        f"- Max: **{stats['max']:.4f}**",
-        f"- Min: **{stats['min']:.4f}**\n",
-    ]
+stats = {m: defaultdict(list) for m in models}
 
-    path.write_text("\n".join(lines), encoding="utf-8")
-    print(f"[Benchmark] Markdown saved → {path}")
+for row in data:
+    gt = row["gt"]
+    for m in models:
+        pred = row.get(m, "")
+        sem = semantic_token_sim(pred, gt)
+        strict = lev_sim(pred, gt)
+        struct = structural_sim(pred, gt)
+        elem = lcs_sim_char(pred, gt)
+        comb = overall_score(sem, strict, struct, elem)
 
+        stats[m]["sem"].append(sem)
+        stats[m]["strict"].append(strict)
+        stats[m]["struct"].append(struct)
+        stats[m]["elem"].append(elem)
+        stats[m]["comb"].append(comb)
 
-# ============================
-# Main
-# ============================
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python benchmark.py <paper_id>")
-        return
+def avg(xs):
+    return sum(xs) / len(xs) if xs else 0.0
 
-    pid = sys.argv[1]
-    bench = BenchmarkSingle(pid)
-    result = bench.run()
+print("\n=== Repair Head Benchmark (GT only, weighted) ===")
+for m in models:
+    sem = avg(stats[m]["sem"])
+    strict = avg(stats[m]["strict"])
+    struct = avg(stats[m]["struct"])
+    elem = avg(stats[m]["elem"])
+    comb = avg(stats[m]["comb"])
 
-    if result is None:
-        return
-
-    out_dir = Path("output") / pid / "benchmark_results"
-    out_dir.mkdir(exist_ok=True)
-
-    json_path = out_dir / "metrics.json"
-    json_path.write_text(json.dumps(result, indent=2))
-    print(f"[Benchmark] JSON saved → {json_path}")
-
-    md_path = out_dir / "summary.md"
-    write_summary_md(result, md_path)
-
-
-if __name__ == "__main__":
-    main()
+    print(f"\n{m}")
+    print(f"  Semantic Token Similarity : {sem:.4f}")
+    print(f"  Edit-distance (Levenshtein): {strict:.4f}")
+    print(f"  Structural (cmd LCS)      : {struct:.4f}")
+    print(f"  Character LCS             : {elem:.4f}")
+    print(f"  Score_comb (0.4/0.3/0.2/0.1): {comb:.4f}")
